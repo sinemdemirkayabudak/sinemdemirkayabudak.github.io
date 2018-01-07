@@ -20,6 +20,9 @@ h2 {
   font-family: 'Indie Flower', serif;
   font-size: 2rem;
 }
+li {
+    margin-bottom: 1rem;
+}
 hr {
   border-color: #dedede; 
   border-style: solid;
