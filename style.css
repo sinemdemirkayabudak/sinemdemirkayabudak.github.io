@@ -20,7 +20,7 @@ h2 {
   font-family: 'Indie Flower', serif;
   font-size: 2rem;
 }
-li {
+.open-interval li {
     margin-bottom: 1rem;
 }
 hr {
