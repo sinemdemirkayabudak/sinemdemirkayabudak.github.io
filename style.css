@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0rem;
+}
+p {
+  text-align: justify;
+}
+h1 {
+  color: red;
+  text-align: center;
+  font-family: 'Indie Flower', serif;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+}
+h2 {
+  color: red;
+  font-family: 'Indie Flower', serif;
+  font-size: 2rem;
+}
+hr {
+  border-color: #dedede; 
+  border-style: solid;
+}
+a, a:visited {
+  color: red;
+  text-decoration: none;
+}
+a:hover, a:active {
+  color: darkred;
+  text-decoration: underline;
+}
+.nav {
+  text-align: center;
+  color: red;
+  font-family: 'Indie Flower', serif;
+  font-size: 1.25rem;
+  margin: 0.5rem 0rem;
+}
+.tagline {
+  margin-top: 0rem;
+  text-align: center;
+  color: #868e96;
+}
+.footer-copy {
+  color: #868e96;
+}
+.container {
+  margin: 3rem auto;
+  max-width: 600px;
+}
